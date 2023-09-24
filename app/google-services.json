@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105246757325",
+    "project_id": "margin-45373",
+    "storage_bucket": "margin-45373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105246757325:android:c87818b7b1b6214a33f484",
+        "android_client_info": {
+          "package_name": "com.example.margin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18AYp73lNKHTOZ5rPiVIPPwdoJ5q6kj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
